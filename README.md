@@ -1,9 +1,17 @@
 <div align="center">
 
-## ⏳ Something is Coming Soon...
+<h1>🌑 Something Is Coming Soon</h1>
 
-We’re building something **powerful**, **clean**, and **developer-first**.
+<p><i>Code. Intelligence. Experience.</i></p>
 
-```text
-Status: In Progress
-ETA: Soon™
+<br/>
+
+🚧 Under active development  
+🧠 Powered by modern AI  
+🎯 Built for developers
+
+<br/>
+
+<b>Stay tuned.</b>
+
+</div>
