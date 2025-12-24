@@ -1,13 +1,9 @@
 <div align="center">
 
-# 🚧 Something is Coming Soon...
+## ⏳ Something is Coming Soon...
 
-✨ A new experience is being crafted with care  
-⚙️ Powerful ideas are in progress  
-🚀 Launching soon
+We’re building something **powerful**, **clean**, and **developer-first**.
 
-<br/>
-
-> Stay tuned. This space will be updated shortly.
-
-</div>
+```text
+Status: In Progress
+ETA: Soon™
