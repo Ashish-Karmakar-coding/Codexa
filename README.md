@@ -1,7 +1,13 @@
 <div align="center">
 
-```bash
-$ initializing project...
-$ loading components...
-$ optimizing experience...
-$ launching soon...
+# 🚧 Something is Coming Soon...
+
+✨ A new experience is being crafted with care  
+⚙️ Powerful ideas are in progress  
+🚀 Launching soon
+
+<br/>
+
+> Stay tuned. This space will be updated shortly.
+
+</div>
