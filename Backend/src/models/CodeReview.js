@@ -32,17 +32,12 @@ const codeReviewSchema = new mongoose.Schema(
       min: 0,
       max: 100
     },
+    summary: {
+      type: String
+    },
     issues: [issueSchema],
     suggestions: {
       type: [String]
-    },
-    aiModel: {
-      type: String,
-      default: "gpt-4.1"
-    },
-    promptVersion: {
-      type: String,
-      default: "v1"
     }
   },
   { timestamps: true }

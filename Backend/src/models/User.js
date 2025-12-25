@@ -19,15 +19,6 @@ const userSchema = new mongoose.Schema(
     },
     accessToken: {
       type: String
-    },
-    plan: {
-      type: String,
-      enum: ["free", "pro", "team"],
-      default: "free"
-    },
-    isActive: {
-      type: Boolean,
-      default: true
     }
   },
   { timestamps: true }
